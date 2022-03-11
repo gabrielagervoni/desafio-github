@@ -1,6 +1,9 @@
 # Comandos Básicos Git
 ## Principais Comandos do Git e suas funções
 
+Baseado em anotações pessoais  para uso prático  - aprendendo a usar o Git/Github
+
+
 - cd - entrar abrir pasta/diretorio
 - git init - iniciar ações dentro do diretorio
 - ls - listar arquivos e pasta no diretorio
